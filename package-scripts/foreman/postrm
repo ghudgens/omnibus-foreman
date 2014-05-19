@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary foreman removal steps
+# after package is uninstalled.
+#
+
+echo "foreman has been uninstalled!"
+
+exit 0
